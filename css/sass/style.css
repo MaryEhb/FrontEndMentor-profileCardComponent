@@ -139,13 +139,13 @@ body {
 }
 
 .top-circle {
-  top: -30vw;
-  left: -70vh;
+  right: 52%;
+  bottom: 39%;
 }
 
 .bottom-circle {
-  top: 40%;
-  left: 40%;
+  top: 51%;
+  left: 48%;
 }
 
 .attribution {
